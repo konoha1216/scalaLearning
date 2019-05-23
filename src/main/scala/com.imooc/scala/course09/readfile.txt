@@ -1,0 +1,5 @@
+hello world,
+hello konoha,
+this is a test file
+to be read
+in a scala coding.
